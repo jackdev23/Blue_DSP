@@ -1,1 +1,0 @@
- -c -mcpu=$(MP_PROCESSOR_OPTION)  -D__DEBUG   -DXPRJ_default=$(CND_CONF)    -Wa,--defsym=__ICD2RAM=1,--defsym=__MPLAB_DEBUG=1,--defsym=__DEBUG=1,,-g,--no-relax$(MP_EXTRA_AS_POST) C:\Users\noys\MPLABXProjects\MC_804_BLUE.X\src\f300_1800.s
