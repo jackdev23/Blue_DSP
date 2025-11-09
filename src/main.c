@@ -323,7 +323,7 @@ void displayMenuTop() {
 unsigned char Button_Filter_OFF_HOLD; //COMMUTATION NARR_WIDE
 
 int main(void) {
-    //test BRANCH 2
+    //test BRANCH 2 in master
     INTCON2bits.ALTIVT = 0;
     // Configure Oscillator to operate the device at 40MIPS
     // Fosc= Fin*M/(N1*N2), Fcy=Fosc/2
